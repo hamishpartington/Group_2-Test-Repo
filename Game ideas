@@ -1,0 +1,6 @@
+Game idea: A game based on the dinosaur game from Google.
+Twist: The speed at which obstacles approach randomly changes and so does the speed of the jump. Also, obstacles can appear and disappear randomly.
+Challenges:
+    1. High-scores log;
+    2. Obstacle generation;
+    3. Speed control/chnages.
