@@ -1,0 +1,16 @@
+Think Aloud observer notes
+
+Player not sure what objective is nor how to play, as no instructions or start screen are presented.
+There was no indication of which character/tank the player was controlling.
+No indication of when the turn to play is switched to player 2.
+Smoothness of the landscape seems to be good.
+Recommended adding certain features to avoid cheating, such as ensuring player 1 cannot play for player 2.
+Health bars good are a good feature.
+Accidently pressed space bar too long which led to firing for opponent, which could be explored for cheating.
+Adding physics that can impact how he game is played.
+* Such as adding wind that can alter the angle of the missile being fired.
+Need to implement more features that allow for strategic gameplay.
+* E.g.: Having the high ground isn’t advantageous when it should be and could alter how players engage with the game.
+Loop hole which allows cheating, namely when firing. 
+* Possible solution is to use key release method instead of key pressed.
+Add time limit for each turn, to avoid the game dragging for too long and to apply pressure to players.
