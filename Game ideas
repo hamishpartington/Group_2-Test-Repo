@@ -1,6 +1,18 @@
-Game idea: A game based on the dinosaur game from Google.
-Twist: The speed at which obstacles approach randomly changes and so does the speed of the jump. Also, obstacles can appear and disappear randomly.
+Game idea: A game based on Google's dinosaur game.
+Twist: The speed at which the chracter moves and the obstacles approach, changes randomly. Optionally, we could also make obstacles appear and disappear randomly.
 Challenges:
-    1. High-scores log;
-    2. Obstacle generation;
-    3. Speed control/chnages.
+  1. High-scores log;
+  2. Obstacle generation;
+  3. Changing the game's speed at random points.
+
+game idea
+
+prototype: ping pong game : https://openprocessing.org/sketch/821675
+
+twist: modify some attributes of baffle when game's on
+
+challenge:
+* the length of baffle will shrink when ping pong ball hits it
+* the movement of baffle has inertia which means it won't change its direction immediately
+* before game is on, player has three secs to press a certain key as much as possible, which 
+can expand the length of baffle
